@@ -20,7 +20,7 @@
    - Então em src/app/app.component.ts removi `template` e `styles`
      - Substituí isso por: `templateUrl: 'app.component.html'`
      - Criei arquivo src/app/app.component.html
-     - Digitei algo e vi que reflete na aplicação em localhost
+     - Testei digitando algo para refletir na aplicação em localhost
 
 3. Instalei os Componentes do Material
    - Antes de instalar é necessário parar a aplicação do angular
